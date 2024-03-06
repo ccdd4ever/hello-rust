@@ -13,4 +13,7 @@ hyper = { version = "1.0.0-rc.3", features = ["full"] }
 actix-web = "4"
 html2md = "0.2"
 structopt = "0.3"
+flate2 = "1.0.25"
 reqwest = { version = "0.11.18", features = ["blocking"] }
+tar = "0.4.38"
+log = "0.4.17"
